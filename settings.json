@@ -1,0 +1,86 @@
+{
+    "editor.cursorSmoothCaretAnimation": "on",
+    "workbench.list.smoothScrolling": true,
+    "editor.smoothScrolling": true,
+    "terminal.integrated.smoothScrolling": true,
+    "editor.cursorBlinking": "solid",
+    "workbench.colorTheme": "Ayu Dark",
+    "workbench.productIconTheme": "material-product-icons",
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "editor.minimap.enabled": false,
+    "git.enableSmartCommit": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "window.zoomLevel": 2,
+    "window.restoreWindows": "none",
+    "material-icon-theme.hidesExplorerArrows": true,
+    "workbench.tree.renderIndentGuides": "none",
+    "workbench.statusBar.visible": true,
+    "workbench.editor.showTabs": "single",
+    "workbench.layoutControl.enabled": false,
+    "workbench.startupEditor": "none",
+    "workbench.tips.enabled": false,
+    "workbench.colorCustomizations": {
+        "editorSuggestWidget.selectedBackground": "#0b0e14",
+        "sideBar.background": "#0b0e14",
+        "list.activeSelectionBackground": "#0b0e14",
+        "list.inactiveSelectionBackground": "#0b0e14",
+        "list.focusBackground": "#0b0e14",
+        "list.hoverBackground": "#0b0e14",
+        "terminalCursor.foreground": "#c09b51",
+      },
+    "terminal.integrated.fontFamily": "'FiraCode Nerd Font', 'monospace', monospace",
+    "editor.guides.indentation": false,
+    "editor.renderWhitespace": "none",
+    "editor.renderLineHighlight": "none",
+    "editor.matchBrackets": "never",
+    "editor.lightbulb.enabled": "off",
+    "editor.cursorStyle": "line",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.fontLigatures": true,
+    "breadcrumbs.enabled": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "explorer.compactFolders": false,
+    "git.decorations.enabled": false,
+    "scm.diffDecorations": "none",
+    "extensions.ignoreRecommendations": true,
+    "files.autoSave": "afterDelay",
+    "window.titleBarStyle": "native",
+    "apc.electron": {
+      "titleBarStyle": "hidden", 
+      "opacity": 0.99,
+    },
+    "apc.font.family": "JetBrains Mono",
+    "apc.menubar.compact": true,
+    "apc.activityBar": {
+      "position": "bottom",
+      "size": 30,
+      "itemSize": 30,
+      "itemMargin": 10
+    },
+    "apc.header": {
+      "height": 30
+    },
+    "apc.sidebar.titlebar": {
+      "height": 30,
+      "fontSize": 12
+    },
+    "apc.statusBar": {
+      "position": "editor-bottom",
+      "height": 30,
+      "fontSize": 12
+    },
+    "animations.Install-Method": "Apc Customize UI++",
+    "apc.imports": [
+      "file:///c:/Users/stepa/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.1/dist/updateHandler.js"
+    ],
+    "workbench.sideBar.location": "right",
+    "cmake.options.statusBarVisibility": "compact",
+    "cmake.showOptionsMovedNotification": false,
+    "cmake.configureOnOpen": true,
+    
+
+}
