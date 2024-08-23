@@ -4,7 +4,7 @@
     "editor.smoothScrolling": true,
     "terminal.integrated.smoothScrolling": true,
     "editor.cursorBlinking": "solid",
-    "workbench.colorTheme": "Ayu Dark",
+    "workbench.colorTheme": "React Theme",
     "workbench.productIconTheme": "material-product-icons",
     "git.confirmSync": false,
     "git.autofetch": true,
@@ -15,20 +15,20 @@
     "window.zoomLevel": 2,
     "window.restoreWindows": "none",
     "material-icon-theme.hidesExplorerArrows": true,
-    "workbench.tree.renderIndentGuides": "none",
-    "workbench.statusBar.visible": true,
+    "workbench.tree.renderIndentGuides": "onHover",
+    "workbench.statusBar.visible": false,
     "workbench.editor.showTabs": "single",
     "workbench.layoutControl.enabled": false,
     "workbench.startupEditor": "none",
     "workbench.tips.enabled": false,
     "workbench.colorCustomizations": {
-        "editorSuggestWidget.selectedBackground": "#0b0e14",
-        "sideBar.background": "#0b0e14",
-        "list.activeSelectionBackground": "#0b0e14",
-        "list.inactiveSelectionBackground": "#0b0e14",
-        "list.focusBackground": "#0b0e14",
-        "list.hoverBackground": "#0b0e14",
-        "terminalCursor.foreground": "#c09b51",
+        "editorSuggestWidget.selectedBackground": "#282c34",
+        "sideBar.background": "#282c34",
+        "list.activeSelectionBackground": "#282c34",
+        "list.inactiveSelectionBackground": "#282c34",
+        "list.focusBackground": "#282c34",
+        "list.hoverBackground": "#282c34",
+        "terminalCursor.foreground": "#81aca7",
       },
     "terminal.integrated.fontFamily": "'FiraCode Nerd Font', 'monospace', monospace",
     "editor.guides.indentation": false,
@@ -39,6 +39,10 @@
     "editor.cursorStyle": "line",
     "editor.fontFamily": "JetBrains Mono",
     "editor.fontSize": 14,
+    "editor.lineHeight": 20,
+    "editor.letterSpacing": 0.1,
+    "editor.tabSize": 4,
+    "editor.detectIndentation":false,
     "editor.fontLigatures": true,
     "breadcrumbs.enabled": false,
     "explorer.confirmDragAndDrop": false,
@@ -48,7 +52,7 @@
     "scm.diffDecorations": "none",
     "extensions.ignoreRecommendations": true,
     "files.autoSave": "afterDelay",
-    "window.titleBarStyle": "native",
+    "window.titleBarStyle": "custom",
     "apc.electron": {
       "titleBarStyle": "hidden", 
       "opacity": 0.99,
@@ -66,7 +70,7 @@
     },
     "apc.sidebar.titlebar": {
       "height": 30,
-      "fontSize": 12
+      "fontSize": 9
     },
     "apc.statusBar": {
       "position": "editor-bottom",
@@ -81,6 +85,11 @@
     "cmake.options.statusBarVisibility": "compact",
     "cmake.showOptionsMovedNotification": false,
     "cmake.configureOnOpen": true,
+    "window.menuBarVisibility": "compact",
+    "workbench.activityBar.location": "hidden",
+    "files.associations": {
+      "tailwindcss": "*.css"
+    },
     
 
 }
